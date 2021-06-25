@@ -77,5 +77,5 @@ public class AListener implements ActionListener {
 
 			antwort.setText("Der Betrag entspricht " + f.format(wert) + " " + waehrungZu.getSelectedItem());
 		}
-	}asdasdaksdm
+	}
 }
